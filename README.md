@@ -26,7 +26,6 @@ Each folder represents a different subject or project area covered during my cou
 - **Contents:**
   - Wireframe designs (Balsamiq).
   - Final presentation slides.
-  - Low-level handouts.
   - Low-level pen & paper sketches for initial concept creation.
 
 ---
