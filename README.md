@@ -34,7 +34,7 @@ Each folder represents a different subject or project area covered during my cou
 - **Project:** Predictive analytics using **KNIME** workflows.
 - **Tools Used:**
   - **KNIME Analytics Platform** – For data preprocessing, visualization, and predictive modeling.
-  - **machine learning algorithms** for predictive tasks.
+  - **Machine learning algorithms** for predictive tasks.
 - **Contents:**
   - Multiple CSV datasets.
   - KNIME workflow files.
