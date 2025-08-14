@@ -52,5 +52,4 @@ Each folder represents a different subject or project area covered during my cou
 
 ---
 
-## 📜 License
-This repository is for academic and portfolio purposes. All rights reserved unless stated otherwise.
+This repository is for academic and portfolio purposes.
