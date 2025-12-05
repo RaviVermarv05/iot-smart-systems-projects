@@ -26,7 +26,7 @@ Each folder represents a different subject or project area covered during my cou
 - **Contents:**
   - Wireframe designs (Zwickexplorer.bmpr).
   - Final presentation (slides.ZwickExplorer.pdf)
-  - Low-level pen & paper sketches for initial concept creation.
+  - Low-level pen & paper sketches for initial concept creation (Ravi verma Handouts.pdf). 
 
 ---
 
