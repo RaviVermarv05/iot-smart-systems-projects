@@ -25,7 +25,7 @@ Each folder represents a different subject or project area covered during my cou
   - **Balsamiq** – For creating low-fidelity wireframes.
 - **Contents:**
   - Wireframe designs (Zwickexplorer.bmpr).
-  - Final presentation slides.
+  - Final presentation (slides.ZwickExplorer.pdf)
   - Low-level pen & paper sketches for initial concept creation.
 
 ---
