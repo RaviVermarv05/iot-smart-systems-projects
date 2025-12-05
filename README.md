@@ -37,7 +37,7 @@ Each folder represents a different subject or project area covered during my cou
   - **Machine learning algorithms** for predictive tasks.
 - **Contents:**
   - Multiple CSV datasets.
-  - KNIME workflow files.
+  - KNIME workflow file. (data_app.knar) 
   - KNIME certificate of completion. (Ravi knime Certificate.pdf)
   - Documentation of workflow steps and node usage.
 
