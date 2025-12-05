@@ -39,7 +39,7 @@ Each folder represents a different subject or project area covered during my cou
   - Multiple CSV datasets.
   - KNIME workflow file. (data_app.knar) 
   - KNIME certificate of completion. (Ravi knime Certificate.pdf)
-  - Documentation of workflow steps and node usage.
+  - Documentation of workflow steps and node usage. (knime ppt ravi 54270.pptx)
 
 ---
 
